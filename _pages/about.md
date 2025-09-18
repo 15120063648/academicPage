@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 #About Me
-I am a graduate from [Central University of Finance and Economics](https://en.cufe.edu.cn/) [schoole of finance](https://sf.cufe.edu.cn/), where I earned my Bachelor’s degree in Finance (Financial Engineering track). Currently, I am pursuing a Master’s degree in [Financial Engineering](https://msfe.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC-Industrial & Enterprise Systems Engineering)[https://ise.illinois.edu/]. My research interests lie in reinforcement learning and deep learning.
+I am a graduate from [Central University of Finance and Economics](https://en.cufe.edu.cn/) ,[schoole of finance](https://sf.cufe.edu.cn/), where I earned my Bachelor’s degree in Finance (Financial Engineering track). Currently, I am pursuing a Master’s degree in [Financial Engineering](https://msfe.illinois.edu/) at the University of Illinois at Urbana-Champaign (UIUC-Industrial & Enterprise Systems Engineering)[https://ise.illinois.edu/]. My research interests lie in reinforcement learning and deep learning.
 
 #Other Information：
 Here: [CV]()
